@@ -1,75 +1,43 @@
-## About Me: Full Stack Developer
-```php
-class FullStackDeveloper extends ProjectManager {
-  public $name = "Adam Gazdiev";
-  public $location = "Belgium";
-  public $currentStatus = "Looking for new opportunities in web development";
+<p align="center">
+  <img src="https://giffiles.alphacoders.com/215/215985.gif" alt="Header GIF" width="100%" />
+</p>
 
-  public function myProfile() {
-    return [
-      'name' => $this->name,
-      'role' => 'Full Stack Developer',
-      'location' => $this->location,
-      'status' => $this->currentStatus,
-    ];
-  }
-}
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="Divider" width="100%" />
+</p>
 
-$myProfile = new FullStackDeveloper();
-echo $myProfile->myProfile();
+### <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="32" alt="Coder waving" /> Hi there, I'm Adam Gazdiev
 
-```
-## Career Journey
-```javascript
-async function fetchMyCareerPath() {
-  const education = await getEducation();
-  const experience = await getWorkExperience();
-  const managementSkills = await getManagementSkills();
-  const technicalSkills = await getTechnicalSkills();
+Full Stack Developer · Software Architect · System Thinker
 
-  console.log(`Education: ${education}`);
-  console.log(`Work experience: ${experience.join(', ')}`);
-  console.log(`Management Skills: ${managementSkills.join(', ')}`);
-  console.log(`Technical Skills: ${technicalSkills.join(', ')}`);
-}
+I build scalable software systems with a strong focus on backend logic, architecture, and long-term maintainability.  
+My workflow merges precision in implementation with a strategic understanding of how software fits into broader business goals.  
+I care about clarity, security, modularity — and systems that grow without breaking.
 
-fetchMyCareerPath();
+📍 Based in Belgium 🇧🇪  
 
-function getEducation() {
-  return 'Master’s degree in International Relations, People’s Friendship University of Russia';
-}
+🧑‍💻 Working at [AIRobot](https://www.airobot.eu), focusing on backend architecture and platform scalability.  
+🛠️ Specializing in system architecture, backend infrastructure, and cross-platform integration.
 
-function getWorkExperience() {
-  return [
-    'Project Management',
-    'Strategic Planning and Execution',
-    'Cross-Functional Team Leadership'
-  ];
-}
+📁 Note: Most of my current work is private or hosted on Bitbucket (not reflected here on GitHub).
+</div>
 
-function getManagementSkills() {
-  return ['Time Management', 'Coordination', 'Team Leadership'];
-}
 
-function getTechnicalSkills() {
-  return ['Front-end Development', 'Back-end Development', 'Database Management', 'Version Control'];
-}
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="Divider" width="100%" />
+</p>
 
-```
-## Status
-```sql
-SELECT * FROM jobs WHERE candidate = 'Adam Gazdiev' AND status = 'active';
-```
-## Contacts
-- 📧 Email: a.gazdiev [at] gmail [dot] com
-- 💼 LinkedIn: [Adam Gazdiev](https://www.linkedin.com/in/adam-gazdiev/)
-
-<div align="center">
+<div align="left">
 <h1 >:computer:My Tech Stack</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,js,ts,laravel,mysql,postman,nodejs,php,vscode" />
+   <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql,html,css,js,ts,react,angular,bootstrap,docker,vscode,bitbucket,postman" />
   </a>
 </p>
 </div>
 
+
+## Contacts
+- 📧 Email: a.gazdiev [at] gmail [dot] com
+- 💼 LinkedIn: [Adam Gazdiev](https://www.linkedin.com/in/adam-gazdiev/)
+- 🌐 Website: [www.gazdiev.dev](https://gazdiev.dev)
