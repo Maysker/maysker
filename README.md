@@ -37,7 +37,9 @@ I care about clarity, security, modularity — and systems that grow without bre
 </div>
 
 
-## Contacts
-- 📧 Email: a.gazdiev [at] gmail [dot] com
-- 💼 LinkedIn: [Adam Gazdiev](https://www.linkedin.com/in/adam-gazdiev/)
-- 🌐 Website: [www.gazdiev.dev](https://gazdiev.dev)
+## ☎️ Contacts
+📧 Email: a.gazdiev [at] gmail [dot] com
+
+💼 LinkedIn: [Adam Gazdiev](https://www.linkedin.com/in/adam-gazdiev/)
+
+🌐 Website: [www.gazdiev.dev](https://gazdiev.dev)
