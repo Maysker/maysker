@@ -29,7 +29,7 @@ I'm Ingush — and I think like an engineer by blood. Like the towers of my ance
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="Divider" width="100%" />
 </p>
 
-<div align="left">
+<div align="center">
 <h1 >:computer:My Tech Stack</h1>
 <p>
   <a href="https://skillicons.dev">
