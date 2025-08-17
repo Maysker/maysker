@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="Divider" width="100%" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="32" alt="Coder waving" /> Hi there, I'm Adam Gazdiev 
+### <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="32" alt="Coder waving" /> Hi there, I'm Maysker
 Full Stack Developer · Software Architect · System Thinker
 
 I build scalable software systems with a strong focus on backend logic, architecture, and long-term maintainability.  
