@@ -16,9 +16,8 @@ I care about clarity, security, modularity — and systems that grow without bre
 That informs how I think about resilience, systems, and structure — from memory to mechanism.  
 I'm Ingush — and I think like an engineer by blood. Like the towers of my ancestors, I craft structures that endure — grounded in clarity, built for complexity.
 
-📍 Based in Belgium 🇧🇪 Born in Ingushetia <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Ingushetia.svg" width="25" alt="Ingushetia Flag"/> 
+Based in Belgium 🇧🇪 
 
-🧑‍💻 Working at [AIRobot](https://www.airobot.eu), focusing on backend architecture and platform scalability.  
 🛠️ Specializing in system architecture, backend infrastructure, and cross-platform integration.
 
 📁 Note: Most of my current work is private or hosted on Bitbucket (not reflected here on GitHub).
@@ -39,9 +38,4 @@ I'm Ingush — and I think like an engineer by blood. Like the towers of my ance
 </div>
 
 
-## ☎️ Contacts
-📧 Email: a.gazdiev [at] gmail [dot] com
 
-💼 LinkedIn: [Adam Gazdiev](https://www.linkedin.com/in/adam-gazdiev/)
-
-🌐 Website: [www.gazdiev.dev](https://gazdiev.dev)
