@@ -31,7 +31,9 @@ My work often involves connecting different systems, working with complex data, 
 ## ⚙️ Engineering Focus
 
 - **Backend systems & integrations** — APIs, authentication, data flows, service boundaries, and payment integrations.
+##
 - **3D & geospatial software** — point-cloud processing, terrain analysis, coordinate systems, and CAD-oriented outputs.
+##
 - **Engineering tools & automation** — practical software for processing data, simplifying workflows, and reducing manual steps.
 
 <!-- Static Neon Divider -->
