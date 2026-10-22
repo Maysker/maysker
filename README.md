@@ -24,8 +24,6 @@ My work often involves connecting different systems, working with complex data, 
 
 📍 Based in Belgium 🇧🇪 
 
-👨‍💻 Working at [AIRobot](https://www.airobot.eu), focusing on backend systems, architecture, and integrations.
-
 
 <!-- Engineering Focus -->
 ## ⚙️ Engineering Focus
