@@ -24,6 +24,11 @@ My work often involves connecting different systems, working with complex data, 
 
 📍 Based in Belgium 🇧🇪 
 
+ 
+<!-- Static Neon Divider -->
+<p align="center">  
+<img src="./neon-divider.png" alt="Neon Divider" width="100%" />
+</p>
 
 <!-- Engineering Focus -->
 ## ⚙️ Engineering Focus
